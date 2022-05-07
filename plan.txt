@@ -1,0 +1,4 @@
+Versions
+1. Hard coded - No library
+2. Abstracted - Library aided
+
